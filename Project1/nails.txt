@@ -1,0 +1,17 @@
+NazwaSalonuPieknosci_1
+AdresSalonuPieknosci_1
+1Przedmiot_1 salonu paznokci
+2Przedmiot_2 salonu paznokci
+3Przedmiot_3 salonu paznokci
+4Przedmiot_4 salonu paznokci
+5Przedmiot_5 salonu paznokci
+@
+1Pracownik_1 salonu paznokci
+2Pracownik_2 salonu paznokci
+3Pracownik_3 salonu paznokci
+$
+200
+#
+1Usluga_1 studia paznokci	100
+2Usluga_2 studia paznokci	200
+3Usluga_3 studia paznokci	300

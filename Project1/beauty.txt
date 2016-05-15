@@ -1,0 +1,13 @@
+NazwaSalonuPieknosci_1
+AdresSalonuPieknosci_1
+1. rzecz studia pieknosci
+2. rzecz studia pieknosci
+3. rzecz studia pieknosci
+@
+1. kosmetyczka studia pieknosci
+2. kosmetyczka studia pieknosci
+3. kosmetyczka studia pieknosci
+4. kosmetyczka studia pieknosci
+5. kosmetyczka studia pieknosci
+$
+500
